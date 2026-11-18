@@ -14,6 +14,7 @@ A practical, opinionated guide to using Git and GitHub well on a professional te
 | 4 | [Pull Requests](docs/04-pull-requests.md) | Opening PRs that get reviewed quickly and merged smoothly |
 | 5 | [Code Review](docs/05-code-review.md) | Reviewing others' code and responding to feedback |
 | 6 | [Team Workflow & Safety](docs/06-team-workflow-and-safety.md) | Protected branches, CI, secrets, SSH keys, 2FA, issues |
+| ✓ | [Good Git Practice Checklist](docs/good-git-practice.md) | Every habit in one checklist, linked to the details |
 | ★ | [Cheat Sheet](docs/cheat-sheet.md) | One-page command reference |
 
 ## The 10 habits that matter most
@@ -32,7 +33,7 @@ A practical, opinionated guide to using Git and GitHub well on a professional te
 ## How to use this guide
 
 - Read sections 1–4 in your first week.
-- Keep the [cheat sheet](docs/cheat-sheet.md) open while you work.
+- Keep the [cheat sheet](docs/cheat-sheet.md) and [checklist](docs/good-git-practice.md) open while you work.
 - Come back to [Undoing Mistakes](docs/02-undoing-mistakes.md) when something goes wrong. Don't panic: Git rarely loses committed work.
 
 ## Contributing
